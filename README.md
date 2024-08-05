@@ -65,10 +65,22 @@ Comprehensive tutorial on setting up a ROS development environment using Virtual
 1.After installing Ubuntu, open a terminal window.
 ![image](https://github.com/user-attachments/assets/22c712b3-4be1-418b-9017-d78da16cb8d0)
 
-2.Add the ROS repository to your system:
-![image](https://github.com/user-attachments/assets/2b8916d1-f529-4f9a-bdf9-7ab90414cfcd)
+2.Start following the commands in this website
+![image](https://github.com/user-attachments/assets/b4914813-127e-4627-900d-69734295d36d)
+![image](https://github.com/user-attachments/assets/444fedd2-7c6a-447e-908e-aee81f4a06ac)
 
-sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+3.Start downlading ROS
+![image](https://github.com/user-attachments/assets/9e7777ed-dadb-4e33-be7e-45f3fb30fa3c)
+![image](https://github.com/user-attachments/assets/89d80f63-d20f-470d-b3d7-7745ae4e9bfe)
+
+4. Set up the ROS environment:
+ ![image](https://github.com/user-attachments/assets/f84f97b7-519e-49cf-9366-09589fd6a3fc)
+
+Congratulations! ROS is now successfully installed on Ubuntu 20.04 within VirtualBox. You can start using ROS to develop robotics applications.
+
+
+
+
 
 
 
