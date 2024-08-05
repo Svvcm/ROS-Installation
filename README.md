@@ -60,7 +60,7 @@ Comprehensive tutorial on setting up a ROS development environment using Virtual
 ![image](https://github.com/user-attachments/assets/05b5e69a-57fd-443d-b855-20c22338391b)
 
 
-#Step 5: Install ROS on Ubuntu 20.04
+# Step 5: Install ROS on Ubuntu 20.04
 
 1.After installing Ubuntu, open a terminal window.
 ![image](https://github.com/user-attachments/assets/22c712b3-4be1-418b-9017-d78da16cb8d0)
